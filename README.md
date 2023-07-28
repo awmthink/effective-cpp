@@ -20,6 +20,15 @@
 * [Item 15: 在资源管理类中提供对原始资源的访问](./items/item15/README.md)
 * [Item 16: 成对使用new和delete时要采用相同的形式](./items/item16/README.md)
 * [Item 17: 以独立的语句将newd对象置入智能指针](./items/item17/README.md)
+* [Item 18: 让接口容易被正确使用，不易被误用](./items/item18/README.md)
+* [Item 19: 设计class犹如设计type](./items/item19/README.md)
+* [Item 20: 宁以pass-by-reference-to-const替换pass-by-value](./items/item20/README.md)
+* [Item 21: 必须返回对象，别妄想返回其reference](./items/item21/README.md)
+* [Item 22: 将成员变量声明为private](./items/item22/README.md)
+* [Item 23: 宁以non-member、non-friend替换member函数](./items/item23/README.md)
+* [Item 24: 若所有参数皆需类型转换，请为此采用non-member函数](./items/item24/README.md)
+* [Item 25: 考虑写出一个不抛异常的swap函数](./items/item25/README.md)
+
 
 ## Effective Modern C++
 
